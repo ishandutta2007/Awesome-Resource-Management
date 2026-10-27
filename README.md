@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Resource-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Resource-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Resource-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Resource-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Resource-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Resource-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Resource-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Resource-Management?style=flat-square&color=success" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Resource-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -66,31 +66,31 @@ The table below catalogs premier commercial Resource Management platforms, sorte
 
 ## 💻 Open-Source Projects & Frameworks
 
-Open-source tooling in resource management is often embedded inside broader ERP, Project Management, or Time Tracking software. The list below is sorted **descending by GitHub Star Count** with active social star badges linked directly to each project's stargazers page.
+Open-source tooling in resource management is often embedded inside broader ERP, Project Management, or Time Tracking software. The list below is sorted **descending by GitHub Stars_Count** with active social Stars_Badges linked directly to each project's stargazers page.
 
-1. [**Plane**](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+1. [**Plane**](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
    Modern open-source software development and project management platform. Features work cycles, backlog modules, and team member workload indicators. Provides task-level assignment and status monitoring; custom capacity heatmaps require community extensions.
 
-2. [**Odoo**](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+2. [**Odoo**](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    Extensible open-source enterprise suite featuring dedicated Planning, Project, and Timesheet apps. Allows scheduling team shifts, forecasting project resource needs, and tracking actual vs. planned hours across departments.
 
-3. [**ERPNext**](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+3. [**ERPNext**](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    Full-featured open-source ERP built on the Frappe framework. Includes comprehensive Human Resources and Project Management modules with resource allocation, employee work records, attendance tracking, and project cost centers.
 
-4. [**OpenProject**](https://github.com/opf/openproject) [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+4. [**OpenProject**](https://github.com/opf/openproject) [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
    Web-based project management system with Gantt charts, work breakdowns, and time logging.  
    > ⚠️ **Important Caveat**: OpenProject 17.7+ introduced a dedicated **Resource Management Module** (department hierarchies, availability heatmaps, user working-time models), but this module is **Enterprise-only** (paid license). The free Community Edition provides project scheduling and time tracking without advanced capacity heatmaps.
 
-5. [**Planka**](https://github.com/plankanban/planka) [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+5. [**Planka**](https://github.com/plankanban/planka) [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
    Lightweight, real-time open-source Kanban board platform. Provides intuitive task assignments, user avatar indicators, card timers, and milestones for small teams tracking resource distribution across deliverables.
 
-6. [**Leantime**](https://github.com/Leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+6. [**Leantime**](https://github.com/Leantime/leantime) [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
    Strategic project management system tailored for non-project managers and cross-functional teams. Combines goal-oriented delivery, time tracking, task milestones, and individual workload awareness.
 
-7. [**Gauzy**](https://github.com/ever-co/ever-gauzy) [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
+7. [**Gauzy**](https://github.com/ever-co/ever-gauzy) [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
    Open-source ERP and HR management software tailored for small businesses and remote teams. Features timesheets, staff planning, project cost tracking, and employee availability calendars.
 
-8. [**Kimai**](https://github.com/kimai/kimai) [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)  
+8. [**Kimai**](https://github.com/kimai/kimai) [![GitHub_Stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)  
    Production-ready open-source time tracker and billing application. Captures hours worked per team member against activities, customers, and projects with comprehensive reporting and budget control.
 
 ---
